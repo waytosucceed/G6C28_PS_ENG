@@ -1,0 +1,310 @@
+{
+  "heading": "Perfect Tenses",
+  "topics": [
+    {
+      "heading": "Perfect Continuous Tenses",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which tense is used in: 'They have been playing in the park since noon'?",
+          "options": [
+            "a) Present perfect continuous",
+            "b) Past perfect continuous",
+            "c) Future perfect continuous",
+            "d) Simple present"
+          ],
+          "answer": 0,
+          "explanation": "This sentence shows an action (playing) that started in the past (at noon) and is still continuing now, which is what the present perfect continuous tense is used for."
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank: 'By next summer, I _____ (learn) Spanish for two years.'",
+          "options": [
+            "a) will have been learning",
+            "b) have been learning",
+            "c) had been learning",
+            "d) am learning"
+          ],
+          "answer": 0,
+          "explanation": "This sentence is talking about an action that will be ongoing up to a point in the future, which requires the future perfect continuous tense."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which sentence uses the past perfect continuous tense?",
+          "options": [
+            "a) I am singing in the shower.",
+            "b) I had been singing in the shower when the water went cold.",
+            "c) I will be singing in the shower.",
+            "d) I sing in the shower."
+          ],
+          "answer": 1,
+          "explanation": "This sentence uses 'had been' + the -ing form of the verb, which is the structure for past perfect continuous. It shows an action ongoing before another past event."
+        },
+        {
+          "questionNo": 4,
+          "question": "'She _____ (write) her story for three hours when her computer crashed.'",
+          "options": [
+            "a) has been writing",
+            "b) had been writing",
+            "c) will have been writing",
+            "d) is writing"
+          ],
+          "answer": 1,
+          "explanation": "This sentence describes an action that was ongoing before another past action (computer crashing), which requires the past perfect continuous tense."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which tense shows an action that will start later and continue up to a specific time later?",
+          "options": [
+            "a) Simple future",
+            "b) Present perfect continuous",
+            "c) Past perfect continuous",
+            "d) Future perfect continuous"
+          ],
+          "answer": 3,
+          "explanation": "The future perfect continuous tense is used for actions that will start in the future and continue up to a specific future point."
+        },
+        {
+          "questionNo": 6,
+          "question": "Fill in the blank: 'I _____ (wait) for the bus for 30 minutes now.'",
+          "options": [
+            "a) am waiting",
+            "b) have been waiting",
+            "c) had been waiting",
+            "d) will have been waiting"
+          ],
+          "answer": 1,
+          "explanation": "This sentence describes an action that started in the past and is still ongoing, which requires the present perfect continuous tense."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which sentence is in the future perfect continuous tense?",
+          "options": [
+            "a) I will run for an hour.",
+            "b) I had been running for an hour.",
+            "c) I have been running for an hour.",
+            "d) I will have been running for an hour by the time you arrive."
+          ],
+          "answer": 3,
+          "explanation": "This sentence uses 'will have been' + the -ing form of the verb, which is the structure for future perfect continuous."
+        },
+        {
+          "questionNo": 8,
+          "question": "'The children _____ (play) in the garden all afternoon when it started to rain.'",
+          "options": [
+            "a) have been playing",
+            "b) had been playing",
+            "c) will have been playing",
+            "d) are playing"
+          ],
+          "answer": 1,
+          "explanation": "This sentence describes an action that was ongoing before another past action (rain starting), which requires the past perfect continuous tense."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which tense is used to show an action that started in the past and continues now?",
+          "options": [
+            "a) Past perfect continuous",
+            "b) Present perfect",
+            "c) Present perfect continuous",
+            "d) Future perfect continuous"
+          ],
+          "answer": 2,
+          "explanation": "The present perfect continuous tense is used for actions that started in the past and are still ongoing."
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blank: 'By the time the movie ends, we _____ (watch) it for three hours.'",
+          "options": [
+            "a) will have been watching",
+            "b) have been watching",
+            "c) had been watching",
+            "d) are watching"
+          ],
+          "answer": 0,
+          "explanation": "This sentence is talking about an action that will be ongoing up to a future point, which requires the future perfect continuous tense."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which sentence uses the present perfect continuous tense correctly?",
+          "options": [
+            "a) I am studying for my test all week.",
+            "b) I have studying for my test all week.",
+            "c) I have been studying for my test all week.",
+            "d) I had been studying for my test all week."
+          ],
+          "answer": 2,
+          "explanation": "This sentence correctly uses 'have been' + the -ing form of the verb, which is the structure for present perfect continuous."
+        },
+        {
+          "questionNo": 12,
+          "question": "'They _____ (work) on this project for six months when the deadline was extended.'",
+          "options": [
+            "a) have been working",
+            "b) had been working",
+            "c) will have been working",
+            "d) are working"
+          ],
+          "answer": 1,
+          "explanation": "This sentence describes an action that was ongoing before another past action (deadline extension), which requires the past perfect continuous tense."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which tense is used in: 'By next week, I will have been living here for five years'?",
+          "options": [
+            "a) Present perfect continuous",
+            "b) Past perfect continuous",
+            "c) Future perfect continuous",
+            "d) Simple future"
+          ],
+          "answer": 2,
+          "explanation": "This sentence shows an action (living) that will continue up to a specific point in the future, which is what the future perfect continuous tense is used for."
+        },
+        {
+          "questionNo": 14,
+          "question": "Fill in the blank: 'She _____ (practice) the piano for two hours every day this month.'",
+          "options": [
+            "a) is practicing",
+            "b) has been practicing",
+            "c) had been practicing",
+            "d) will have been practicing"
+          ],
+          "answer": 1,
+          "explanation": "This sentence describes an action that started in the past and is still ongoing, which requires the present perfect continuous tense."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which sentence is in the past perfect continuous tense?",
+          "options": [
+            "a) I will have been reading for an hour.",
+            "b) I had been reading for an hour when you called.",
+            "c) I have been reading for an hour.",
+            "d) I am reading for an hour."
+          ],
+          "answer": 1,
+          "explanation": "This sentence uses 'had been' + the -ing form of the verb, which is the structure for past perfect continuous."
+        },
+        {
+          "questionNo": 16,
+          "question": "'By the time we reach the beach, we _____ (drive) for four hours.'",
+          "options": [
+            "a) will drive",
+            "b) have been driving",
+            "c) will have been driving",
+            "d) had been driving"
+          ],
+          "answer": 2,
+          "explanation": "This sentence is talking about an action that will be ongoing up to a future point, which requires the future perfect continuous tense."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which tense is used to show an action that was ongoing before another action back in time?",
+          "options": [
+            "a) Simple past",
+            "b) Present perfect continuous",
+            "c) Past perfect continuous",
+            "d) Future perfect continuous"
+          ],
+          "answer": 2,
+          "explanation": "The past perfect continuous tense is used for actions that were ongoing before another action in the past."
+        },
+        {
+          "questionNo": 18,
+          "question": "Fill in the blank: 'I _____ (try) to solve this puzzle for hours!'",
+          "options": [
+            "a) am trying",
+            "b) have been trying",
+            "c) had been trying",
+            "d) will have been trying"
+          ],
+          "answer": 1,
+          "explanation": "This sentence describes an action that started in the past and is still ongoing, which requires the present perfect continuous tense."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which sentence uses the future perfect continuous tense correctly?",
+          "options": [
+            "a) I am running in the marathon next week.",
+            "b) I have been running in marathons for years.",
+            "c) I had been running in marathons before I got injured.",
+            "d) By next year, I will have been running in marathons for a decade."
+          ],
+          "answer": 3,
+          "explanation": "This sentence correctly uses 'will have been' + the -ing form of the verb, which is the structure for future perfect continuous."
+        },
+        {
+          "questionNo": 20,
+          "question": "'The dog _____ (bark) for an hour when the neighbours complained.'",
+          "options": [
+            "a) has been barking",
+            "b) had been barking",
+            "c) will have been barking",
+            "d) is barking"
+          ],
+          "answer": 1,
+          "explanation": "This sentence describes an action that was ongoing before another past action (neighbours complaining), which requires the past perfect continuous tense."
+        },
+        {
+          "questionNo": 21,
+          "question": "Which tense is used in: 'We have been waiting for the bus for 20 minutes'?",
+          "options": [
+            "a) Present perfect continuous",
+            "b) Past perfect continuous",
+            "c) Future perfect continuous",
+            "d) None of the above"
+          ],
+          "answer": 0,
+          "explanation": "This sentence shows an action (waiting) that started in the past and is still continuing now, which is what the present perfect continuous tense is used for."
+        },
+        {
+          "questionNo": 22,
+          "question": "Fill in the blank: 'By the time the party starts, I _____ (cook) for three hours.'",
+          "options": [
+            "a) will have been cooking",
+            "b) have been cooking",
+            "c) had been cooking",
+            "d) am cooking"
+          ],
+          "answer": 0,
+          "explanation": "This sentence is talking about an action that will be ongoing up to a future point, which requires the future perfect continuous tense."
+        },
+        {
+          "questionNo": 23,
+          "question": "Which sentence uses the past perfect continuous tense?",
+          "options": [
+            "a) I am singing in the choir.",
+            "b) I have been singing in the choir for years.",
+            "c) I had been singing in the choir for an hour when I lost my voice.",
+            "d) I will have been singing in the choir for a decade next year."
+          ],
+          "answer": 2,
+          "explanation": "This sentence uses 'had been' + the -ing form of the verb, which is the structure for past perfect continuous. It shows an action ongoing before another past event."
+        },
+        {
+          "questionNo": 24,
+          "question": "'They _____ (study) all night when the sun came up.'",
+          "options": [
+            "a) have been studying",
+            "b) had been studying",
+            "c) will have been studying",
+            "d) are studying"
+          ],
+          "answer": 1,
+          "explanation": "This sentence describes an action that was ongoing before another past action (sun coming up), which requires the past perfect continuous tense."
+        },
+        {
+          "questionNo": 25,
+          "question": "Which tense shows an action that started in the past, continues now, and may continue into the future?",
+          "options": [
+            "a) Simple present",
+            "b) Present perfect continuous",
+            "c) Past perfect continuous",
+            "d) Future perfect continuous"
+          ],
+          "answer": 1,
+          "explanation": "The present perfect continuous tense is used for actions that started in the past, are ongoing now, and may continue into the future."
+        }
+      ]
+    }
+  ]
+}
